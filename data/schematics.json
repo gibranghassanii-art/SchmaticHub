@@ -1,0 +1,143 @@
+[
+  {
+    "id": "medieval-castle",
+    "title": "Medieval Castle",
+    "author": "DemoBuilder",
+    "description": "A walled stone-brick castle with four corner towers, crenellated walls, a central keep and a main gate. Great for survival bases.",
+    "file": "schematics/medieval-castle.litematic",
+    "fileName": "medieval-castle.litematic",
+    "fileSize": 1450,
+    "minecraftVersion": "1.21.1",
+    "litematicaVersion": "0.21.0",
+    "category": "Castles",
+    "dimensions": {
+      "x": 33,
+      "y": 20,
+      "z": 33
+    },
+    "tags": [
+      "castle",
+      "medieval",
+      "large"
+    ],
+    "downloads": 4210,
+    "likes": 812,
+    "uploaded": "2026-09-12",
+    "featured": true,
+    "demo": true,
+    "images": []
+  },
+  {
+    "id": "cozy-cottage",
+    "title": "Cozy Cottage",
+    "author": "DemoCrafter",
+    "description": "A small oak-and-spruce cottage with a brick chimney and glass windows. Perfect starter house.",
+    "file": "schematics/cozy-cottage.litematic",
+    "fileName": "cozy-cottage.litematic",
+    "fileSize": 652,
+    "minecraftVersion": "1.21.1",
+    "litematicaVersion": "0.21.0",
+    "category": "Houses",
+    "dimensions": {
+      "x": 13,
+      "y": 11,
+      "z": 11
+    },
+    "tags": [
+      "house",
+      "cottage",
+      "small",
+      "survival"
+    ],
+    "downloads": 2875,
+    "likes": 604,
+    "uploaded": "2026-09-20",
+    "featured": true,
+    "demo": true,
+    "images": []
+  },
+  {
+    "id": "desert-pyramid",
+    "title": "Stepped Desert Pyramid",
+    "author": "DemoMason",
+    "description": "A stepped sandstone pyramid with a golden capstone. Easy to scale up for monuments.",
+    "file": "schematics/desert-pyramid.litematic",
+    "fileName": "desert-pyramid.litematic",
+    "fileSize": 647,
+    "minecraftVersion": "1.20.4",
+    "litematicaVersion": "0.21.0",
+    "category": "Monuments",
+    "dimensions": {
+      "x": 31,
+      "y": 16,
+      "z": 31
+    },
+    "tags": [
+      "pyramid",
+      "desert",
+      "monument"
+    ],
+    "downloads": 1930,
+    "likes": 377,
+    "uploaded": "2026-08-30",
+    "featured": true,
+    "demo": true,
+    "images": []
+  },
+  {
+    "id": "striped-lighthouse",
+    "title": "Striped Lighthouse",
+    "author": "DemoBuilder",
+    "description": "A tapering red-and-white lighthouse with a glass lantern room. Fits a coastal base.",
+    "file": "schematics/striped-lighthouse.litematic",
+    "fileName": "striped-lighthouse.litematic",
+    "fileSize": 937,
+    "minecraftVersion": "1.21.4",
+    "litematicaVersion": "0.21.0",
+    "category": "Towers",
+    "dimensions": {
+      "x": 15,
+      "y": 26,
+      "z": 15
+    },
+    "tags": [
+      "lighthouse",
+      "coast",
+      "tower"
+    ],
+    "downloads": 1204,
+    "likes": 291,
+    "uploaded": "2026-09-27",
+    "featured": false,
+    "demo": true,
+    "images": []
+  },
+  {
+    "id": "nether-watchtower",
+    "title": "Nether Watchtower",
+    "author": "DemoMason",
+    "description": "A blackstone watchtower with a lava floor, shroomlight windows and a crenellated top.",
+    "file": "schematics/nether-watchtower.litematic",
+    "fileName": "nether-watchtower.litematic",
+    "fileSize": 713,
+    "minecraftVersion": "1.20.1",
+    "litematicaVersion": "0.21.0",
+    "category": "Towers",
+    "dimensions": {
+      "x": 11,
+      "y": 21,
+      "z": 11
+    },
+    "tags": [
+      "nether",
+      "tower",
+      "blackstone"
+    ],
+    "downloads": 988,
+    "likes": 202,
+    "uploaded": "2026-09-02",
+    "featured": false,
+    "demo": true,
+    "images": []
+  }
+]
